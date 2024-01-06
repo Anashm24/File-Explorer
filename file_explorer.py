@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-import os 
+import os
 def file_explorer():
     dir_stack = []
     while True:
