@@ -23,9 +23,5 @@ This repository contains scripts that demonstrate mastery of the Python os modul
 
 To run these scripts, you need Python installed on your machine.
 
-## Usage
 
-To run a script, navigate to the directory containing the script and run the following command in your terminal:
 
-```bash
-python fileexplorer.py
